@@ -4,7 +4,7 @@ Racket implementation of the lambda runtime API. It uses a Minimal Racket distri
 
 The purpose of this repository is to understand how to implement a custom AWS Lambda runtime.
 
-If you just want to run your racket code in Lambda, there is a publickly available layer you can use with arn arn:aws:lambda:ap-northeast-2:11:layer:racket-runtime:16.
+If you just want to run your racket code in Lambda, there is a publickly available layer you can use with arn *arn:aws:lambda:ap-northeast-2:389941452291:layer:lambda-racket-runtime:21*.
 
 Please be noted that the layer's version would be changed and it hopefully will be updated as a new version is available.
 
