@@ -1,0 +1,5 @@
+#!/bin/sh
+
+set -euo pipefail
+
+/opt/racket/bin/racket -f /opt/runtime.rkt
